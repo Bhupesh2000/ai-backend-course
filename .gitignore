@@ -6,3 +6,4 @@ data/
 *_Store
 *.pkl
 *.npy
+state.json
